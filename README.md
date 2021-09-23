@@ -2,4 +2,4 @@
 My first repository
 
 Hello, world! 
-P.S: PB
+P.S: ПавелБ
